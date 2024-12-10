@@ -8,6 +8,8 @@ This project involves processing two CSV files: one containing student informati
 3. Code Functionality
    
    3.1 Linear Execution
+
+   
    3.2 Parallel Execution (Using multiprocessing)
 
 6. Performance Comparison
@@ -24,6 +26,9 @@ Implement both linear execution and parallel execution (using the multiprocessin
 The solution was implemented using Python and the pandas library for data manipulation.
 ## CSV file structure:
 Student Fees (student_fees.csv): Contains payment information for students.
+
+
+
 Student Information (students.csv): Contains general details about students, including their unique Student ID.
 ## Code Functionality:
 #### Linear Execution:
@@ -35,4 +40,7 @@ The linear execution approach processes the data sequentially, whereas the paral
 The performance comparison is measured by timing the execution of both approaches using Python's time module.
 ## Results:
 linear.jpeg
+
+
+
 parallel.png
