@@ -1,6 +1,6 @@
 ## pdp_t1_A1
 This repository aims to compare the execution time between linear and parallel processing.
-#  linear and parallel execution
+#  Linear and Parallel execution
 This project involves processing two CSV files: one containing student information and the other containing fee payment details. The goal is to ensure data integrity, generate fee payment dates, determine the most frequent payment date for each student, and implement both linear and parallel execution versions of the code to perform the tasks efficiently.
 ### Table of contents:
 1. Overview
