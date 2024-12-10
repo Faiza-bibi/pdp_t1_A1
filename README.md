@@ -12,13 +12,13 @@ This project involves processing two CSV files: one containing student informati
 7. Running the Code
 8. Results
 ## Overview:
-The project has two main tasks:
-Data Integrity: 
+The project has three main tasks:
+###### Data Integrity: 
 Ensure that each student in the students CSV has a corresponding fee payment in the student_fees CSV.
-Payment Date Analysis:
+###### Payment Date Analysis:
 Generate a list of payment dates for each student based on monthly payments.
 Identify the most frequent payment date for each student.
-Execution Variants: 
+###### Execution Variants: 
 Implement both linear execution and parallel execution (using the multiprocessing module) to handle the task, and compare their performance.
 The solution was implemented using Python and the pandas library for data manipulation.
 ## Code Functionality:
